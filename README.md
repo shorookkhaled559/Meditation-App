@@ -7,7 +7,7 @@ This project is an **interactive meditation app** that allows users to **select 
 ## Live Demo
 
 You can view the live version of the project here:  
-**[Live Demo Link](#)**
+**[Live Demo Link](http://shorookkhaled559.github.io/Meditation-App/)**
 
 
 ------------------------------------------------------------------------
